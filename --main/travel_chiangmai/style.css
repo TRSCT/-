@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'IBM';
+    src: url(./Font/IBMPlexSansThaiLooped-Medium.ttf);
+}
+
+body {
+    font-family: 'IBM' !important;
+}
+
+.bg-image
